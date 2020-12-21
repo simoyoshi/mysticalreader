@@ -1,10 +1,10 @@
 # mysticalreader
 
-## Storing custom messages and translations
+## Memorizzazione di messaggi e traduzioni personalizzati
 
-As the developer you can create a `messages.json` file that contains your own text and translations. There are two types of objects within this file: `direct messages` and `embeds`. Direct messages will be a single message in different languages, while embeds will contain different types of fields. An example of each:
+Come sviluppatore puoi creare un file `messages.json` che contiene il tuo testo e le tue traduzioni. Ci sono due tipi di oggetti all'interno di questo file: `DM` e` embeds`. I messaggi diretti saranno un singolo messaggio in diverse lingue, mentre gli incorporamenti conterranno diversi tipi di campi. Un esempio di ciascuno:
 
-Direct messages:
+DM:
 
 ```JSON
 {
