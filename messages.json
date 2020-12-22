@@ -1,0 +1,150 @@
+{
+  "LINGUAGGIO_NON_SUPPORTATO": {
+    "english": "This bot does not have support for {LANGUAGE} at this time.",
+    "spanish": "Este bot no es compatible con {LANGUAGE} en este momento.",
+    "italian": "Questo bot non supporta {LANGUAGE} in questo momento." 
+  },
+  "LINGUAGGIO_CORRENTE": {
+    "english": "The current langauge is set to {LANGUAGE}.",
+    "spanish": "El idioma actual está establecido en {LANGUAGE}.",
+    "italian": "Il linguaggio corrente è settato a {LANGUAGE}."
+  },
+  "NUOVO_LINGUAGGIO": {
+    "english": "Language set to {LANGUAGE}.",
+    "spanish": "Idioma configurado en {LANGUAGE}.",
+    "italian": "Linguaggio settato a {LANGUAGE}"
+  },
+  "SOLO_OWNER_BOT": {
+    "english": "Only the bot owner can run this command.",
+    "spanish": "Solo el propietario del bot puede ejecutar este comando.",
+    "italian": "Solo l'owner del bot può fare questo comando."
+  },
+  "COMANDO_DISABILITATO": {
+    "english": "That command is currently disabled in this server.",
+    "spanish": "Ese comando está actualmente deshabilitado en este servidor.",
+    "italian": "Questo comando è disabilitato in questo server"
+  },
+  "PERMESSI_MANCANTI": {
+    "english": "You must have the {PERM} permission in order to use this command.",
+    "spanish": "Debe tener el permiso {PERM} para poder utilizar este comando.",
+    "italian": "Devi avere il permesso {PERM} per usare questo comando"
+  },
+  "RUOLI_MANCANTI": {
+    "english": "You do not have the required roles to use this command!",
+    "spanish": "¡No tienes los roles necesarios para usar este comando!",
+    "italian": "Non hai i ruoli per usare il comando!"
+  },
+  "COOLDOWN": {
+    "english": "You must wait {COOLDOWN} before using that command again.",
+    "spanish": "Debe esperar {COOLDOWN} antes de usar ese comando nuevamente.",
+    "italian": "Devi aspettare {COOLDOWN} prima di usare di nuovo il comando."
+  },
+  "ABILITA_DISABILITA_STATO": {
+    "english": "The state must be either \"enable\" or \"disable\".",
+    "spanish": "El estado debe ser \"habilitar\" o \"deshabilitar\".",
+    "italian": "Lo stato deve essere \"abilita\" o \"disabilita\"."
+  },
+  "NON_PUOI_ABILITARE_DISABILITA_NEI_DMS": {
+    "english": "You cannot enable or disable commands in private messages.",
+    "spanish": "No puede habilitar o deshabilitar comandos en mensajes privados.",
+    "italian": "Non è possibile abilitare o disabilitare i comandi nei DMS."
+  },
+  "COMANDO_GIÀ_ABILITATO": {
+    "english": "That command is already enabled!",
+    "spanish": "¡Ese comando ya está habilitado!",
+    "italian": "Questo comando è già abilitato!"
+  },
+  "COMANDO_GIÀ_DISABILITATO": {
+    "english": "That command is already disabled!",
+    "spanish": "¡Ese comando ya está desactivado!",
+    "italian": "Questo comando è già disabilitato"
+  },
+  "COMANDO_ABILITATO": {
+    "english": "{COMMAND} is now enabled!",
+    "spanish": "¡{COMMAND} ahora está habilitado!",
+    "italian": "{COMMAND} abilitato!"
+  },
+
+  "COMANDO_SCONOSCIUTO": {
+    "english": "Could not find command {COMMAND}!",
+    "spanish": "¡No se pudo encontrar el comando {COMMAND}!",
+    "italian": "Non trovo il comando {COMMAND}!"
+  },
+  "PREFIX_CORRENTE": {
+    "english": "The current prefix is {PREFIX}.",
+    "spanish": "El prefijo actual es {PREFIX}.",
+    "italian": "Il prefix corrente è {PREFIX}"
+  },
+  "SET_PREFIX": {
+    "english": "Set the command prefix to {PREFIX}.",
+    "spanish": "Establezca el prefijo del comando en {PREFIX}.",
+    "italian": "Il prefix è stato settato a {PREFIX}"
+  },
+  "IMPOSSIBILE_SETTARE_PREFIX_DMS": {
+    "english": "You cannot set a prefix in a private message.",
+    "spanish": "No puede establecer un prefijo en un mensaje privado.",
+    "italian": "Non posso settare il prefix nei DMS"
+  },
+  "IMPOSSIBILE_CAMBIARE_RUOLO_DMS": {
+    "english": "You cannot change required roles in private messages.",
+    "spanish": "No puede cambiar los roles requeridos en los mensajes privados.",
+    "italian": "Non puoi cambiare il ruolo richiesto nei DMS"
+  },
+  "RIMUOVERE_TUTTI_RUOLI_COMANDO": {
+    "english": "Removed all required roles from command {COMMAND}.",
+    "spanish": "Se eliminaron todos los roles requeridos del comando {COMMAND}.",
+    "italian": "Rimossi tutti i ruoli dal comando {COMMAND}"
+  },
+  "AGGIUNTA_RUOLO_RICHIESTO": {
+    "english": "Added role {ROLE} to command {COMMAND}.",
+    "spanish": "Se agregó el rol {ROLE} al comando {COMMAND}.",
+    "italian": "Aggiunto il ruolo {ROLE} al comando {COMMAND}"
+  },
+  "SYNTAX_ERROR": {
+    "english": "Incorrect usage! Please use \"{PREFIX}{COMMAND} {ARGUMENTS}\"",
+    "spanish": "¡Uso incorrecto! Utilice \"{PREFIX} {COMMAND} {ARGUMENTS}\"",
+    "italian": "Uso incorretto! Utilizza \"{PREFIX}{COMMAND} {ARGUMENTS}\""
+  },
+  "NESSUN_DATABASE_TROVATO": {
+    "english": "No database connection found!",
+    "spanish": "¡No se encontró conexión a la base de datos!",
+    "italian": "Nessuna connessioen al databse trovato!"
+  },
+  "HELP_MENU": {
+    "TITLE": {
+      "english": "Help Menu",
+      "spanish": "Menú de ayuda",
+      "italian": "Help Menu"
+    },
+    "SELECT_A_CATEGORY": {
+      "english": "Please select a command category by clicking it's reaction.",
+      "spanish": "Seleccione una categoría de comando haciendo clic en su reacción.",
+      "italian": "Seleziona una categoria di comando facendo clic sulla reazione."
+    },
+    "COMMANDS": {
+      "english": "commands",
+      "spanish": "comandos",
+      "italian": "comandi"
+    },
+    "DESCRIZIONE_PRIMA_LINEA": {
+      "english": "Use 🚪 to return to the previous menu.",
+      "spanish": "Utilice 🚪 para volver al menú anterior.",
+      "italian": "Utilizza 🚪 per ritornare al menù"
+    },
+    "DESCRIZIONE_SECONDA_LIENA": {
+      "english": "Use ⬅ and ➡ to navigate between pages.",
+      "spanish": "Utilice ⬅ y ➡ para navegar entre páginas.",
+      "italian": "Utilizza ⬅ e ➡ per navigare tra le pagine"
+    },
+    "ALIASES": {
+      "english": "Aliases",
+      "spanish": "Alias",
+      "italian": "Aliases"
+    },
+    "SYNTAX": {
+      "english": "Syntax",
+      "spanish": "Sintaxis",
+      "italian": "Syntax"
+    }
+  }
+}
