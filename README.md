@@ -1,4 +1,4 @@
-# mysticalreader
+# MysticalReader
 
 ## Memorizzazione di messaggi e traduzioni personalizzati
 
