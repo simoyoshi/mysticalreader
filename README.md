@@ -28,9 +28,8 @@ Embed:
 }
 ```
 
-Puoi trovare il default `messages.json` qui: . You will also need to define where your `messages.json` file lives in the WOKCommands constructor like so:
+Puoi trovare il default `messages.json` qui: https://github.com/simoyoshi/mysticalreader/blob/main/messages.json. Puoi cambiare il tuo `messages.json` così:
 
 ```JS
-// Assumes messages.json is in the same directory as this code's file
-new WOKCommands(client, 'commands', 'features', 'messages.json')
+new MysticalReader(client, 'commands', 'features', 'messages.json')
 ```
